@@ -17,7 +17,7 @@ MyFitHub is a fitness tracking app built using the MERN stack with JavaScript ho
 *Technology Stack*
 
 - *Frontend:* React.js
-- *Backend:* Node.js, Express.js
+- *Backend:* Node.js, Express.js (with manual API about workout)
 - *Database:* MongoDB (hosted on MongoDB Cloud)
 - *State Management:* JavaScript hooks
 
