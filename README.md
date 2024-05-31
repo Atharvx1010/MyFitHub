@@ -1,4 +1,4 @@
-*MyFitHub*
+#MyFitHub
 
 MyFitHub is a fitness tracking app built using the MERN stack with JavaScript hooks for state management. It allows users to track their workouts, set exercise goals, create custom workouts, and engage with a community for support.
 
